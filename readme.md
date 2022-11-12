@@ -2,6 +2,10 @@
 
 Small Chrome extension to hide all the stupid checkmarks on Twitter. The "official" extension is pending for a review, but it's simple to just download this repo and install the extension manually.
 
+
+https://user-images.githubusercontent.com/1710629/201469943-18baeb62-6d2b-4e9a-ac1a-27666d4ed959.mp4
+
+
 ## Manual installation
 
 - Visit chrome://extensions (via omnibox or menu -> Tools -> Extensions)
